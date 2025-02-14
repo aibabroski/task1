@@ -54,6 +54,3 @@ Ensure you have **Python 3.x** installed on your system.
 ## Author
 Aibek Murat
 
----
-Happy Coding! 🚀
-
